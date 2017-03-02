@@ -40,6 +40,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="State\Base\ConcreteStateA.cs" />
+    <Compile Include="State\Base\ConcreteStateB.cs" />
+    <Compile Include="State\Base\Context.cs" />
+    <Compile Include="State\Base\RunOutPut.cs" />
+    <Compile Include="State\Base\State.cs" />
     <Compile Include="Visit\EventHandlerModel\CustomEventArgs.cs" />
     <Compile Include="Visit\EventHandlerModel\Publisher.cs" />
     <Compile Include="Visit\EventHandlerModel\RunOutPut.cs" />

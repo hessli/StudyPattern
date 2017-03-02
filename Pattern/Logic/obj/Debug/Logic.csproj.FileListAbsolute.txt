@@ -1,0 +1,5 @@
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Logic\bin\Debug\Logic.dll
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Logic\bin\Debug\Logic.pdb
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Logic\obj\Debug\Logic.dll
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Logic\obj\Debug\Logic.pdb
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache

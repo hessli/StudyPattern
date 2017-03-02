@@ -1,0 +1,11 @@
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\bin\Debug\Door.exe.config
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\bin\Debug\Door.exe
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\bin\Debug\Door.pdb
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\bin\Debug\Logic.dll
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\bin\Debug\Logic.pdb
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.csprojResolveAssemblyReference.cache
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.Form1.resources
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.Properties.Resources.resources
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.csproj.GenerateResource.Cache
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.exe
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Door\obj\Debug\Door.pdb
