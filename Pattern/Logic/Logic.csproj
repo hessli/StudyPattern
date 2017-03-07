@@ -50,7 +50,9 @@
     <Compile Include="Visit\EventHandlerModel\RunOutPut.cs" />
     <Compile Include="Visit\EventHandlerModel\Subscriber.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Proxy\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Visit\EventHandlerModel\通过EventHandler发布事件.txt" />
   </ItemGroup>

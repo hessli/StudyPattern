@@ -42,3 +42,4 @@ D:\code\myProject\study\Pattern\StudyPattern\Pattern\Javascript\bin\zh-Hans\Syst
 D:\code\myProject\study\Pattern\StudyPattern\Pattern\Javascript\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\code\myProject\study\Pattern\StudyPattern\Pattern\Javascript\obj\Debug\Javascript.dll
 D:\code\myProject\study\Pattern\StudyPattern\Pattern\Javascript\obj\Debug\Javascript.pdb
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Javascript\bin\Javascript.dll.config

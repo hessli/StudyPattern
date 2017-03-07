@@ -1,0 +1,3 @@
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\code\myProject\study\Pattern\StudyPattern\Pattern\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
